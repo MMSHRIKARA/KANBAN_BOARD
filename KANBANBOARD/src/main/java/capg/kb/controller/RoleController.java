@@ -1,5 +1,5 @@
 package capg.kb.controller;
 
-public class RoleControllers {
+public class RoleController {
 
 }
